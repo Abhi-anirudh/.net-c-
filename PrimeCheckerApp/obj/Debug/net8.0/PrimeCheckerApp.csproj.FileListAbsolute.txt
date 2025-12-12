@@ -1,0 +1,15 @@
+/workspaces/.net-c-/PrimeCheckerApp/bin/Debug/net8.0/PrimeCheckerApp
+/workspaces/.net-c-/PrimeCheckerApp/bin/Debug/net8.0/PrimeCheckerApp.deps.json
+/workspaces/.net-c-/PrimeCheckerApp/bin/Debug/net8.0/PrimeCheckerApp.runtimeconfig.json
+/workspaces/.net-c-/PrimeCheckerApp/bin/Debug/net8.0/PrimeCheckerApp.dll
+/workspaces/.net-c-/PrimeCheckerApp/bin/Debug/net8.0/PrimeCheckerApp.pdb
+/workspaces/.net-c-/PrimeCheckerApp/obj/Debug/net8.0/PrimeCheckerApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/.net-c-/PrimeCheckerApp/obj/Debug/net8.0/PrimeCheckerApp.AssemblyInfoInputs.cache
+/workspaces/.net-c-/PrimeCheckerApp/obj/Debug/net8.0/PrimeCheckerApp.AssemblyInfo.cs
+/workspaces/.net-c-/PrimeCheckerApp/obj/Debug/net8.0/PrimeCheckerApp.csproj.CoreCompileInputs.cache
+/workspaces/.net-c-/PrimeCheckerApp/obj/Debug/net8.0/PrimeCheckerApp.sourcelink.json
+/workspaces/.net-c-/PrimeCheckerApp/obj/Debug/net8.0/PrimeCheckerApp.dll
+/workspaces/.net-c-/PrimeCheckerApp/obj/Debug/net8.0/refint/PrimeCheckerApp.dll
+/workspaces/.net-c-/PrimeCheckerApp/obj/Debug/net8.0/PrimeCheckerApp.pdb
+/workspaces/.net-c-/PrimeCheckerApp/obj/Debug/net8.0/PrimeCheckerApp.genruntimeconfig.cache
+/workspaces/.net-c-/PrimeCheckerApp/obj/Debug/net8.0/ref/PrimeCheckerApp.dll
