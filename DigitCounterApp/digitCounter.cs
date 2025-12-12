@@ -29,8 +29,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        
-        DigitCounter dc1 = new DigitCounter(Console.ReadLine(););
+        int input = int.Parse(Console.ReadLine() ?? "0");
+        DigitCounter dc1 = new DigitCounter(input);
         dc1.Display();
 
         Console.WriteLine();

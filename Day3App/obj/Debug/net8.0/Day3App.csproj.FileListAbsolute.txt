@@ -1,0 +1,15 @@
+/workspaces/.net-c-/Day3App/bin/Debug/net8.0/Day3App
+/workspaces/.net-c-/Day3App/bin/Debug/net8.0/Day3App.deps.json
+/workspaces/.net-c-/Day3App/bin/Debug/net8.0/Day3App.runtimeconfig.json
+/workspaces/.net-c-/Day3App/bin/Debug/net8.0/Day3App.dll
+/workspaces/.net-c-/Day3App/bin/Debug/net8.0/Day3App.pdb
+/workspaces/.net-c-/Day3App/obj/Debug/net8.0/Day3App.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/.net-c-/Day3App/obj/Debug/net8.0/Day3App.AssemblyInfoInputs.cache
+/workspaces/.net-c-/Day3App/obj/Debug/net8.0/Day3App.AssemblyInfo.cs
+/workspaces/.net-c-/Day3App/obj/Debug/net8.0/Day3App.csproj.CoreCompileInputs.cache
+/workspaces/.net-c-/Day3App/obj/Debug/net8.0/Day3App.sourcelink.json
+/workspaces/.net-c-/Day3App/obj/Debug/net8.0/Day3App.dll
+/workspaces/.net-c-/Day3App/obj/Debug/net8.0/refint/Day3App.dll
+/workspaces/.net-c-/Day3App/obj/Debug/net8.0/Day3App.pdb
+/workspaces/.net-c-/Day3App/obj/Debug/net8.0/Day3App.genruntimeconfig.cache
+/workspaces/.net-c-/Day3App/obj/Debug/net8.0/ref/Day3App.dll
