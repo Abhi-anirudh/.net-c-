@@ -1,0 +1,15 @@
+/workspaces/.net-c-/DigitCounterApp/bin/Debug/net8.0/DigitCounterApp
+/workspaces/.net-c-/DigitCounterApp/bin/Debug/net8.0/DigitCounterApp.deps.json
+/workspaces/.net-c-/DigitCounterApp/bin/Debug/net8.0/DigitCounterApp.runtimeconfig.json
+/workspaces/.net-c-/DigitCounterApp/bin/Debug/net8.0/DigitCounterApp.dll
+/workspaces/.net-c-/DigitCounterApp/bin/Debug/net8.0/DigitCounterApp.pdb
+/workspaces/.net-c-/DigitCounterApp/obj/Debug/net8.0/DigitCounterApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/.net-c-/DigitCounterApp/obj/Debug/net8.0/DigitCounterApp.AssemblyInfoInputs.cache
+/workspaces/.net-c-/DigitCounterApp/obj/Debug/net8.0/DigitCounterApp.AssemblyInfo.cs
+/workspaces/.net-c-/DigitCounterApp/obj/Debug/net8.0/DigitCounterApp.csproj.CoreCompileInputs.cache
+/workspaces/.net-c-/DigitCounterApp/obj/Debug/net8.0/DigitCounterApp.sourcelink.json
+/workspaces/.net-c-/DigitCounterApp/obj/Debug/net8.0/DigitCounterApp.dll
+/workspaces/.net-c-/DigitCounterApp/obj/Debug/net8.0/refint/DigitCounterApp.dll
+/workspaces/.net-c-/DigitCounterApp/obj/Debug/net8.0/DigitCounterApp.pdb
+/workspaces/.net-c-/DigitCounterApp/obj/Debug/net8.0/DigitCounterApp.genruntimeconfig.cache
+/workspaces/.net-c-/DigitCounterApp/obj/Debug/net8.0/ref/DigitCounterApp.dll

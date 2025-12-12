@@ -1,0 +1,15 @@
+/workspaces/.net-c-/StudentApp/obj/Debug/net8.0/StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/.net-c-/StudentApp/obj/Debug/net8.0/StudentApp.AssemblyInfoInputs.cache
+/workspaces/.net-c-/StudentApp/obj/Debug/net8.0/StudentApp.AssemblyInfo.cs
+/workspaces/.net-c-/StudentApp/obj/Debug/net8.0/StudentApp.csproj.CoreCompileInputs.cache
+/workspaces/.net-c-/StudentApp/obj/Debug/net8.0/StudentApp.sourcelink.json
+/workspaces/.net-c-/StudentApp/bin/Debug/net8.0/StudentApp
+/workspaces/.net-c-/StudentApp/bin/Debug/net8.0/StudentApp.deps.json
+/workspaces/.net-c-/StudentApp/bin/Debug/net8.0/StudentApp.runtimeconfig.json
+/workspaces/.net-c-/StudentApp/bin/Debug/net8.0/StudentApp.dll
+/workspaces/.net-c-/StudentApp/bin/Debug/net8.0/StudentApp.pdb
+/workspaces/.net-c-/StudentApp/obj/Debug/net8.0/StudentApp.dll
+/workspaces/.net-c-/StudentApp/obj/Debug/net8.0/refint/StudentApp.dll
+/workspaces/.net-c-/StudentApp/obj/Debug/net8.0/StudentApp.pdb
+/workspaces/.net-c-/StudentApp/obj/Debug/net8.0/StudentApp.genruntimeconfig.cache
+/workspaces/.net-c-/StudentApp/obj/Debug/net8.0/ref/StudentApp.dll
