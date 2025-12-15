@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitCounterApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3a3f97af2d2d8dea189c0c37cdb0cf91a88ba2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+899d6aec1dfc8b21e7ebb58d67430f37dc1c9bcd")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitCounterApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitCounterApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
